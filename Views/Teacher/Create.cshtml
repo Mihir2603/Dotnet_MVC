@@ -1,0 +1,31 @@
+@model Teacher
+
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary">Create Teacher</h2>
+			<hr />
+		</div>
+		@*<div asp-validation-summary="All"></div>*@
+   
+		<div class="mb-3">
+			<label asp-for="Teacher_Name">Teacher name</label>
+			<input asp-for="Teacher_Name" class="form-control" />
+			<span asp-validation-for="Teacher_Name" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="subject">Subject</label>
+			<input asp-for="subject" class="form-control" />
+			<span asp-validation-for="subject" class="text-danger"></span>
+		</div>
+        <div class="mb-3">
+			<label asp-for="JoiningDate">Joining Date</label>
+			<input asp-for="JoiningDate" class="form-control" />
+			<span asp-validation-for="JoiningDate" class="text-danger"></span>
+		</div>
+		<button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+		<a asp-controller="Teacher" asp-action="Index" class="btn btn-secondary" style="width:150px">
+			Back to List
+		</a>
+	</div>
+</form>

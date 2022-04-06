@@ -1,0 +1,126 @@
+F:\. net\assinments\MVC\bin\Debug\net6.0\appsettings.Development.json
+F:\. net\assinments\MVC\bin\Debug\net6.0\appsettings.json
+F:\. net\assinments\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+F:\. net\assinments\MVC\bin\Debug\net6.0\MVC.exe
+F:\. net\assinments\MVC\bin\Debug\net6.0\MVC.deps.json
+F:\. net\assinments\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+F:\. net\assinments\MVC\bin\Debug\net6.0\MVC.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\MVC.pdb
+F:\. net\assinments\MVC\bin\Debug\net6.0\Humanizer.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\dotnet-ef.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\. net\assinments\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+F:\. net\assinments\MVC\obj\Debug\net6.0\staticwebassets.build.json
+F:\. net\assinments\MVC\obj\Debug\net6.0\staticwebassets.development.json
+F:\. net\assinments\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\. net\assinments\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+F:\. net\assinments\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.dll
+F:\. net\assinments\MVC\obj\Debug\net6.0\refint\MVC.dll
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.pdb
+F:\. net\assinments\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+F:\. net\assinments\MVC\obj\Debug\net6.0\ref\MVC.dll
+F:\MVC\bin\Debug\net6.0\appsettings.Development.json
+F:\MVC\bin\Debug\net6.0\appsettings.json
+F:\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+F:\MVC\bin\Debug\net6.0\MVC.exe
+F:\MVC\bin\Debug\net6.0\MVC.deps.json
+F:\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+F:\MVC\bin\Debug\net6.0\MVC.dll
+F:\MVC\bin\Debug\net6.0\MVC.pdb
+F:\MVC\bin\Debug\net6.0\Humanizer.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MVC\bin\Debug\net6.0\dotnet-ef.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+F:\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+F:\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+F:\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+F:\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+F:\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+F:\MVC\obj\Debug\net6.0\staticwebassets.build.json
+F:\MVC\obj\Debug\net6.0\staticwebassets.development.json
+F:\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+F:\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+F:\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+F:\MVC\obj\Debug\net6.0\MVC.dll
+F:\MVC\obj\Debug\net6.0\refint\MVC.dll
+F:\MVC\obj\Debug\net6.0\MVC.pdb
+F:\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+F:\MVC\obj\Debug\net6.0\ref\MVC.dll
